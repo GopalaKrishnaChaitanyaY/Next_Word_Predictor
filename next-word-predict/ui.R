@@ -1,5 +1,5 @@
 shinyUI(fluidPage(
-    titlePanel("Predict Next Word"),
+    titlePanel("Predict Next Word by ---Gopala Krishna Chaitanya Y"),
     mainPanel(
         width=6
         ,uiOutput("topPanel")
